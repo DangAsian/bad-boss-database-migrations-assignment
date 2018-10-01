@@ -1,0 +1,2 @@
+class CreateLocation < ApplicationRecord
+end
